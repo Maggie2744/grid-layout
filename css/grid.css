@@ -621,6 +621,14 @@
     align-self: center;
   }
 
+  .m-1 {
+    width: 100%;
+  }
+
+  .m-3 {
+    width: 33.333%;
+  }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -827,6 +835,14 @@
     -ms-align-self: center;
     -webkit-align-self: center;
     align-self: center;
+  }
+
+  .l-2 {
+    width: 66.666%;
+  }
+
+  .l-1 {
+    width: 33.333%;
   }
 
 }
